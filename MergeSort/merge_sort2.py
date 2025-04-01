@@ -58,6 +58,7 @@ def merge(left: list[int] , right: list[int] , array: list[int]) -> None:
     -------
     nothing the array is modified in place
     """
+    
     i = j = k = 0
 
     while i < len(left) and j < len(right):
