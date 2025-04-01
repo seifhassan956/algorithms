@@ -14,4 +14,3 @@ A Python implementation of the binary search algorithm with clean documentation 
 1. Clone the repository:
    ```bash
    git clone https://github.com/seifhassan956/algorithms.git
-   cd repo-name
