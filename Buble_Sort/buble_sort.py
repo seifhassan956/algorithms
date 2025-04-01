@@ -17,6 +17,10 @@ def buble_sort(array: list[int]) -> list[int]:
     ----------------
         time complexity: Best Case: O(n) when array is already sorted
         Average/Worst Case: O(n²)
+
+    Space Complexity
+    ----------------
+        space complexity: O(1)
     """
     
     n = len(array)
